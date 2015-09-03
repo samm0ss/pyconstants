@@ -2,6 +2,7 @@ import datetime
 MILLIMETER = MILLIMETERS = 1
 METER = METERS = 1000 * MILLIMETERS
 KILOMETER = KILOMETERS = 1000 * METERS
+FOOT = FEET = 304.8
 
 SECOND = SECONDS = 1
 MINUTE = MINUTES = 60 * SECONDS  # note: this is wrong in case of leapseconds
