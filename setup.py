@@ -29,7 +29,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/reinhrst/pyconstants',
+    url='https://github.com/samm0ss/pyconstants',
 
     # Author details
     author='Reinoud Elhorst',
