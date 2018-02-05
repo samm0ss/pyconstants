@@ -18,7 +18,7 @@ with open(path.join(here, 'DESCRIPTION.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='constants',
+    name='pyconstants',
 
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
@@ -64,11 +64,11 @@ setup(
     ],
 
     # What does your project relate to?
-    keywords='constants',
+    keywords='pyconstants',
 
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
-    packages=['constants'],
+    packages=['pyconstants'],
 
     # List run-time dependencies here.  These will be installed by pip when
     # your project is installed. For an analysis of "install_requires" vs pip's
